@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098612916820",
+    "firebase_url": "https://coastal-cider-368412-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "coastal-cider-368412",
+    "storage_bucket": "coastal-cider-368412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098612916820:android:97ef645595aa124146a3c1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_iot_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098612916820-klnkf0l7m6qr2se0arrn3qmq7p4748ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmhad3V2TkSAGs6JKYQOE6gnZh2sSICk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098612916820-klnkf0l7m6qr2se0arrn3qmq7p4748ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
