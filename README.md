@@ -13,3 +13,14 @@ Home > viewing humidity, temperature and manually turning on and off water pump.
 Settings > selecting and changing minimum and max humidity, turning on automatic watering and turning on and off whole system
 
 Graphs > viewing humidity logged every hour with a timestamp
+
+![obrazek](https://github.com/nico-magic/flutter-iot-planter-app/assets/93150987/38b04f41-91a6-49ab-b626-70ef1029c920)
+Home screen
+![obrazek](https://github.com/nico-magic/flutter-iot-planter-app/assets/93150987/ec14e0a1-4e35-4321-9fc4-17585a1a1ec4)
+Settings screen
+![obrazek](https://github.com/nico-magic/flutter-iot-planter-app/assets/93150987/fd89a2b3-e692-4d4c-932a-b07711ce3a6f)
+Selecting humidity
+![obrazek](https:/github.com/nico-magic/flutter-iot-planter-app/assets/93150987/b47e9c9b-7269-4336-9d19-6c8ba46d49f2)
+Graph screen
+![obrazek](https://github.com/nico-magic/flutter-iot-planter-app/assets/93150987/c8ebef74-f2d9-4993-afe3-8badb4ace4fa)
+Hardware part of this system
