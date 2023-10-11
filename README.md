@@ -1,16 +1,13 @@
 # flutter_iot_app2
 
-A new Flutter project.
+Flutter app created as part of my bachelor's thesis. 
 
-## Getting Started
+It is used in conjuction with Smart planter connected to Firebase Realtime Database using WeMos D1 board and various sensors.
 
-This project is a starting point for a Flutter application.
+This app can authorize a user (Not yet fully implemented) and after that, user can control, view and customize smart planter.
 
-A few resources to get you started if this is your first Flutter project:
+App has 3 primary screens:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home > viewing humidity, temperature and manually turning on and off water pump.
+Settings > selecting and changing minimum and max humidity, turning on automatic watering and turning on and off whole system
+Graphs > viewing humidity logged every hour with a timestamp
