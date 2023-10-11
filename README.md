@@ -8,6 +8,6 @@ This app can authorize a user (Not yet fully implemented) and after that, user c
 
 App has 3 primary screens:
 
-Home > viewing humidity, temperature and manually turning on and off water pump.\n
-Settings > selecting and changing minimum and max humidity, turning on automatic watering and turning on and off whole system\n
+Home > viewing humidity, temperature and manually turning on and off water pump.
+Settings > selecting and changing minimum and max humidity, turning on automatic watering and turning on and off whole system
 Graphs > viewing humidity logged every hour with a timestamp
